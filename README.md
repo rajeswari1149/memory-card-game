@@ -3,15 +3,6 @@
 
 A fun and interactive memory matching game built using HTML, CSS, and JavaScript. Flip the cards, match the pairs, and test your memory skills!
 
-![Game Screenshot](./screenshot.png) <!-- Optional: Add a screenshot or GIF -->
-
----
-
-## 🔗 Live Demo
-
-[Play the Game Here](https://your-username.github.io/memory-card-game/)  
-*(Replace with your actual GitHub Pages URL)*
-
 ---
 
 ## 📌 Table of Contents
